@@ -16,7 +16,6 @@ public class CountPairsWithDiffK{
         // Better Approach 
         // 2 Pointer
         Arrays.sort(arr);
-        Arrays.sort(arr);
         int n = arr.length;
         int i = 0, j = 1, count = 0;
 
